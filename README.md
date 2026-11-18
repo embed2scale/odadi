@@ -6,7 +6,7 @@ Detect forest disturbances and attribute their cause from Sentinel-1 and Sentine
 
 **Coming soon (December 2026):** the benchmark dataset, code and model weights.
 
-- Demo data (coming soon): huggingface.co/datasets/embed2scale/odadi-demo
+- Demo data (coming soon): [huggingface.co/datasets/embed2scale/odadi-demo](https://huggingface.co/datasets/embed2scale/odadi-demo)
 - Benchmark dataset (coming soon): huggingface.co/datasets/embed2scale/odadi
 - Contact: Damien Robert, University of Zurich, damien.robert@uzh.ch
 
