@@ -1,15 +1,14 @@
-# Forest disturbance monitoring
+# ODADi: Online Detection and Attribution of Forest Disturbances
 
-Near-real-time detection and attribution of forest disturbances (clear-cut, thinning, salvage logging,
-wildfire, windthrow, bark beetle and other biotic damage) from Sentinel-1 and Sentinel-2 time series,
-with models running on pre-computed foundation-model embeddings.
+Detect forest disturbances and attribute their cause from Sentinel-1 and Sentinel-2 time series, as new images arrive.
 
-**Coming soon (December 2026):** code, trained models, and a European benchmark dataset of annotated
-forest disturbance events.
+![Clear-cut and wildfire alerts with their cause, a few days after the event (left); detection and attribution accuracy against time to detection, compared with existing products (right)](assets/teaser.png)
 
-- Dataset: https://huggingface.co/datasets/embed2scale/forest-disturbance-monitoring (coming soon)
-- Interactive demo: https://huggingface.co/spaces/embed2scale/forest-disturbance-monitoring
-- Contact: Damien Robert, University of Zurich — damien.robert@uzh.ch
+**Coming soon (December 2026):** the benchmark dataset, code and model weights.
+
+- Demo data (coming soon): huggingface.co/datasets/embed2scale/odadi-demo
+- Benchmark dataset (coming soon): huggingface.co/datasets/embed2scale/odadi
+- Contact: Damien Robert, University of Zurich, damien.robert@uzh.ch
 
 ## Acknowledgements
 
